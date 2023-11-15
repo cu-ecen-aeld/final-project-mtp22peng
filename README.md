@@ -15,6 +15,4 @@ Click here for Varun's Final Project Video.
 Click here for Amey's Final Project Video.
 
 # Team Members
-Tanmay Kothale (tanmay.kothale@colorado.edu)
-Varun Mehta (varun.mehta@colorado.edu)
-Amey Dashaputre (amey.dashaputre@colorado.edu)
+Ming-tsan Peng (mt.peng@gmail.com)

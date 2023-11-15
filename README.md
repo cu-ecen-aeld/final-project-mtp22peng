@@ -4,7 +4,7 @@ This repository contains the final project submission by Tanmay Kothale, Varun M
 # Project Overview
 Click here for Project Overview page.
 
-# Project Schedule
+# [Project Schedule]{https://github.com/users/mtp22peng/projects/2}
 Click here for Project Schedule page.
 
 # Student Video Demos

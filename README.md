@@ -7,11 +7,13 @@ Click here for Project Overview page.
 This project build a module for Beaglebone black with Yocto build system.
 ![image](https://github.com/cu-ecen-aeld/final-project-mtp22peng/assets/800523/6e6095e1-16a5-454f-874d-7b8add115f0d)
 
+Compositions of the Beaglebone board are shown as follows:
+![image](https://github.com/cu-ecen-aeld/final-project-mtp22peng/assets/800523/e28292b8-193a-440c-9a22-e634c45d527a)
+
+An Hello module is built based on the project: https://github.com/mtp22peng/hello-yocto
 
 
-An overview of the project goals and motivation.  Includes at least one diagram relevant to the overall project design which, at minimum, identifies the associated hardware.
 
-The target build system for the project, Buildroot or Yocto.
 
 # [Project Schedule](https://github.com/users/mtp22peng/projects/2)
 Click here for Project Schedule page.

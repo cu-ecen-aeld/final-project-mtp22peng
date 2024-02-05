@@ -15,7 +15,7 @@ An Hello module is built based on the project: https://github.com/mtp22peng/hell
 
 
 
-# [Project Schedule](https://github.com/users/mtp22peng/projects/2)
+# [Project Schedule](https://github.com/users/mtp22peng/projects/5/views/1)
 Click here for Project Schedule page.
 
 # Student Video Demos
